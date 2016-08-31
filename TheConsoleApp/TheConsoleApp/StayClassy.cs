@@ -8,5 +8,6 @@ namespace TheConsoleApp
 {
     class StayClassy
     {
+        public bool IsNotSureWhatHeIsDoing { get; set; }
     }
 }
